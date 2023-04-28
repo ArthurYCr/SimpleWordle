@@ -1,0 +1,3 @@
+work like the online game wordle. 
+
+learned basic rules in js, and use browser to debug it 
